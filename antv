@@ -1,0 +1,270 @@
+<!DOCTYPE HTML>
+  <html>
+      <head>
+          <meta charset="UTF-8">
+          <title>Vision+ :</title>
+          <meta http-equiv="x-ua-compatible" content="ie=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+          <meta name="google-site-verification" content="MU1SEKOh4hqPEsvAbaq6jq517rVPPMu3oC3gVJGuu7U"/>
+          <meta name="title" content="Vision+ Movies">
+          <meta name="keywords" content="okezone, layar tancap, mncnow, mnc now, sinetron, now, tonton film, ftv, film indonesia, free, ott, broadcast, mnc">
+          <meta name="description" content="Nonton ratusan film pilihan dari Indonesia, Hollywood dan Asia. Film lepas, series, sinetron, drakor dan animasi hanya di MNC Now">
+          <meta name="author" content="visionplus.id">
+          <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+          <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    
+          
+          
+      
+          
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111351533-7"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+      
+            gtag('config', 'UA-111351533-7');
+          </script>    
+      
+          
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154114411-1"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+      
+            gtag('config', 'UA-154114411-1');
+          </script>
+      
+          
+          <script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "9013027" });
+            (function() {
+              var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+              s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+              el.parentNode.insertBefore(s, el);
+            })();
+          </script>
+          <noscript>
+            <img src="https://sb.scorecardresearch.com/p?c1=2&c2=9013027&cv=2.0&cj=1"/>
+          </noscript>
+          
+        
+          <script type="text/javascript" src="conviva/conviva/conviva-core-sdk.min.js"></script>
+          <script type="text/javascript" src="conviva/conviva/conviva-html5native-impl.js"></script>
+
+          
+          <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-TRZJRWG');</script>
+          
+      </head>
+  
+  
+      <style>#playerContainer{position:absolute;top:0;left:0;width:100%;height:100%}#player{position:inherit;width:100%!important;height:100%!important}.rmp-logo{height:48px;width:auto;object-fit:contain;cursor:default!important;margin:25px 48px!important}@media (max-width:767px){.rmp-logo{height:18px;margin:16px!important}}@media (max-width:991px) and (orientation:landscape){.rmp-logo{height:18px!important}}</style>
+  
+      <body><noscript><meta HTTP-EQUIV="refresh" content="0;url='https://okezone.visionplus.id/player-prd.html?url=https%3A%2F%2Fliveanevia.mncnow.id%2Flive%2Feds%2FANTV%2Fsa_dash_vmx%2FANTV.mpd&amp;img=https%3A%2F%2Fstatic.mncnow.id%2Fimages%2Fchannel%2Fd0690c9c-151.jpg&amp;url2=https%3A%2F%2Fliveanevia.mncnow.id%2Flive%2Feds%2FANTV%2Fsa_hls_vmx%2FANTV.m3u8&amp;source=https://visionplus.okezone.com/&amp;PageSpeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="https://okezone.visionplus.id/player-prd.html?url=https%3A%2F%2Fliveanevia.mncnow.id%2Flive%2Feds%2FANTV%2Fsa_dash_vmx%2FANTV.mpd&amp;img=https%3A%2F%2Fstatic.mncnow.id%2Fimages%2Fchannel%2Fd0690c9c-151.jpg&amp;url2=https%3A%2F%2Fliveanevia.mncnow.id%2Flive%2Feds%2FANTV%2Fsa_hls_vmx%2FANTV.m3u8&amp;source=https://visionplus.okezone.com/&amp;PageSpeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+
+        
+        <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRZJRWG" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript>
+        
+
+        <iframe src="https://api.okezone.com/ntp" width="1" height="1" style="display:none">  
+        </iframe>
+        <div id="playerContainer">
+          <div id="player"></div>
+          <script type="text/javascript" src="conviva/app/configs.js"></script>
+          <script type="text/javascript" src="conviva/app/NexHandshake.js"></script>
+  
+          <script type="text/javascript" src='js/nexplayer/nexplayer.js'> document.addEventListener("player", function (e) {
+              e.preventDefault();
+          }, false);</script>
+
+          <script src="https://cdn.radiantmediatechs.com/rmp/6.2.1/js/rmp.min.js"></script>
+          <script src="js/radiant/radiant.js"></script>
+  
+          <script>
+  
+          var player = null;
+          var videoElem = null;
+          var NexConviva = null;
+  
+          var img = null;
+          var title = null;
+  
+          var self = this;
+  
+          // var url = 'https://d7wce5shv28x4.cloudfront.net/sample_streams/sintel_subtitles_hls/master.m3u8';
+          // url = 'https://media.axprod.net/Temp/Taavi/sintel/Clear/Manifest.mpd';
+  
+          function getQueryStrings() { 
+            var assoc  = {};
+            var decode = function (s) { return decodeURIComponent(s.replace(/\+/g, " ")); };
+            var queryString = location.search.substring(1); 
+            var keyValues = queryString.split('&'); 
+  
+            for(var i in keyValues) { 
+              var key = keyValues[i].split('=');
+              if (key.length > 1) {
+                assoc[decode(key[0])] = decode(key[1]);
+              }
+            } 
+  
+            return assoc;
+          }
+  
+          var qs = getQueryStrings();
+          var url1 = qs["url"];
+          if (!qs["url"]) { url1 = 'https://media.axprod.net/Temp/Taavi/sintel/Clear/Manifest.mpd';}
+        //   url = url.replace("/transmovies/","/transmoviesnon/");        
+          // url1 = url1.replace("_vmx/","/");        
+
+          var url2 = qs["url2"];
+          if (!qs["url2"]) { url2 = 'https://media.axprod.net/Temp/Taavi/sintel/Clear/Manifest.mpd';}
+          // url2 = url2.replace("_vmx/","/");        
+          
+          // paramVast = qs["vast"] //vast
+          // if (!paramVast) { 
+          // paramVast = "https://pubads.g.doubleclick.net/gampad/ads?slotname=/124319096/external/ad_rule_samples&sz=640x480&ciu_szs=300x250&cust_params=deployment%3Ddevsite%26sample_ar%3Dpreonly&url=https://developers.google.com/interactive-media-ads/docs/sdks/html5/tags&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&vad_type=linear&vpos=preroll&pod=1&ppos=1&lip=true&min_ad_duration=0&max_ad_duration=30000&vrid=5776&video_doc_id=short_onecue&cmsid=496&kfa=0&tfcd=0";
+          // paramVast = "https://pubads.g.doubleclick.net/gampad/ads?iu=/7108725/NowVastPre&description_url=http%3A%2F%2Fvisionplus.id&tfcd=0&npa=0&sz=400x300%7C640x380%7C640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=";
+
+          //Linear tag            
+          // paramVast = "https://pubads.g.doubleclick.net/gampad/ads?iu=/7108725/NowVastPre&description_url=[placeholder]&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300|640x480&unviewed_position_start=1&adurl=https://asia.adform.net/serving/videoad/?bn=34370503&v=4&ord=343&cust_params=2-122-426";
+          // paramVast = "https://pubads.g.doubleclick.net/gampad/ads?iu=/7108725/NowVastPre&description_url=https%3A%2F%2Fvisionplus.okezone.com%2F&tfcd=0&npa=0&sz=400x300%7C640x380%7C640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=FVWRVTJCJY";
+          paramVast = "https://pubads.g.doubleclick.net/gampad/ads?iu=/7108725/OKEVPLUSVastPre&description_url=https%3A%2F%2Fvisionplus.okezone.com%2F&tfcd=0&npa=0&sz=400x300%7C640x380%7C640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=0&url=https%3A%2F%2Fvisionplus.okezone.com%2F&vpos=preroll";
+
+          // }
+
+          var img = qs["img"];
+          if (!img) { img = null;}
+          var assetName = qs["assetName"];
+          if (!assetName) { assetName = 'Vision+ Video';}
+          var viewerId = qs["viewerId"];
+          if (!viewerId) { viewerId = '0';}
+          var title = assetName;
+          var isLive = false;
+  
+          var CONTENT_TYPE = qs["CONTENT_TYPE"]
+          if (!CONTENT_TYPE) 
+              {CONTENT_TYPE  = 'CHANNEL_LIVE';}
+          else if (CONTENT_TYPE == 'Channel')
+              {CONTENT_TYPE  = 'CHANNEL_LIVE';}
+          else if (CONTENT_TYPE == 'Series')
+              {CONTENT_TYPE  = 'VOD_SERIES';}
+          else if (CONTENT_TYPE == 'Movies')
+              {CONTENT_TYPE  = 'VOD_MOVIE';}
+
+          if(CONTENT_TYPE == "CHANNEL_LIVE"){
+            isLive = true;
+          }
+  
+          var CONTENT_DRM_STATUS = qs["CONTENT_DRM_STATUS"]
+          if (!CONTENT_DRM_STATUS) { CONTENT_DRM_STATUS   = 'False';}
+          var CONTENT_DRM_TYPE = qs["CONTENT_DRM_TYPE"]
+          if (!CONTENT_DRM_TYPE) { CONTENT_DRM_TYPE    = 'NO_DRM';}
+          var PLATFORM = qs["PLATFORM"]
+          if (!PLATFORM) { CONTENT_DRM_TYPE    = 'OKEZONE';}
+          var CATEGORY = qs["CATEGORY"]
+          if (!CATEGORY) {CATEGORY = '';}
+          var SUBCATEGORY = qs["SUBCATEGORY"]
+          if (!SUBCATEGORY) {SUBCATEGORY = '';}
+ 
+
+        var FairPlay = 0;
+        var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
+        var isChrome = !!window.chrome;
+        var isFirefox = typeof InstallTrigger !== 'undefined';
+
+        console.log("isChrome :" + isChrome);
+        console.log("isFirefox :" + isFirefox);
+        console.log("isSafari :" + isSafari);
+        
+        if (isSafari) {
+            // alert("Safari");
+            FairPlay = 1;
+        }else if (isFirefox) {
+            // alert("Firefox");
+            FairPlay = 0;
+            // if(screen.width < 500 ||
+            //     navigator.userAgent.match(/Android/i) ||
+            //     navigator.userAgent.match(/webOS/i) ||
+            //     navigator.userAgent.match(/iPhone/i) ||
+            //     navigator.userAgent.match(/iPod/i)) {
+            //     FairPlay = 2; // mobile browser non chrome
+            // }
+        }else if (isChrome) {
+            // alert("Chrome");
+            FairPlay = 0;
+            // alert("If not playing, please use Firefox browser until problem is solved.");
+        }else{
+            if (
+                (navigator.platform == "MacIntel") 
+                || (navigator.platform == "MacPPC")
+                || (navigator.platform == "iPhone")
+                || (navigator.platform == "iPad")
+                ){
+                
+                FairPlay = 1;
+            } else {
+                // alert("Browser not supported. Please use Safari, Firefox or Chrome.")
+                FairPlay = 2;
+            }
+        }
+        console.log("isclean :" + url1.includes("_vmx/"));
+        if (!url1.includes("_vmx/")){
+            FairPlay = 2;
+        }
+        
+        // FairPlay = 2
+        if (FairPlay == 2) {
+            console.log("C");
+            url = url2;
+            nonDrm("player", viewerId, url, isLive, paramVast)
+        }
+        else
+        {
+
+              // // console.log('isSafari:' + isSafari);
+              // console.log('appCodeName:' + navigator.appCodeName);
+              // console.log('appName:' + navigator.appName);
+              // console.log("platform: " + navigator.platform);
+
+
+              if (FairPlay == 1)
+              {
+
+                  console.log('status: FP');
+
+                  url = url2;
+                  initSafari("player", viewerId, url, isLive, paramVast)
+              }
+              else
+              {
+                  // console.log('isWidevine: True');
+                  console.log('status: WV');
+
+                  var k="https://mrpw.ptmnc01.verspective.net:443?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1";
+                  url = url1;
+
+                  initNotSafari("player", viewerId, url, isLive, paramVast)
+                  
+              }
+        }
+
+              var vidsrc = url.split('\/');
+              var title = vidsrc;
+              document.title='Vision+ : '. concat(title);
+          
+            </script>
+          </div>
+      <noscript class="psa_add_styles"><style>#playerContainer{position:absolute;top:0;left:0;width:100%;height:100%}#player{position:inherit;width:100%!important;height:100%!important}.rmp-logo{height:48px;width:auto;object-fit:contain;cursor:default!important;margin:25px 48px!important}@media (max-width:767px){.rmp-logo{height:18px;margin:16px!important}}@media (max-width:991px) and (orientation:landscape){.rmp-logo{height:18px!important}}</style></noscript><script data-pagespeed-no-defer>(function(){function b(){var a=window,c=e;if(a.addEventListener)a.addEventListener("load",c,!1);else if(a.attachEvent)a.attachEvent("onload",c);else{var d=a.onload;a.onload=function(){c.call(this);d&&d.call(this)}}};var f=!1;function e(){if(!f){f=!0;for(var a=document.getElementsByClassName("psa_add_styles"),c=0,d;d=a[c];++c)if("NOSCRIPT"==d.nodeName){var k=document.createElement("div");k.innerHTML=d.textContent;document.body.appendChild(k)}}}function g(){var a=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||null;a?a(function(){window.setTimeout(e,0)}):b()}
+var h=["pagespeed","CriticalCssLoader","Run"],l=this;h[0]in l||!l.execScript||l.execScript("var "+h[0]);for(var m;h.length&&(m=h.shift());)h.length||void 0===g?l[m]?l=l[m]:l=l[m]={}:l[m]=g;})();
+pagespeed.CriticalCssLoader.Run();</script></body>
+  </html>
+ 
