@@ -18,7 +18,7 @@
  * For more information visit: https://www.farih.web.id/
  * NOTE: Installation and usage are posted on our website, kindly visit website and search for Keyword Generator Script.
  *
- * Copyright (c) 2021 www.technicalarp.com
+ * Copyright (c) 2021 www.farih.web.id
  * Released under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
  */
  
