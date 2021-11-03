@@ -204,7 +204,7 @@
                     }
                 }
                 $("#keywordsCounter").html(keywordsCounter);
-                $("#technicalarpresult").html(sb);
+                $("#farihresult").html(sb);
                 //loader()
                 //document.getElementById("input").value += sb;
 
