@@ -15,7 +15,7 @@
  * Updated Script!
  * jQuery Keyword Finder v2.1.0
  *
- * For more information visit: https://www.technicalarp.com/
+ * For more information visit: https://www.farih.web.id/
  * NOTE: Installation and usage are posted on our website, kindly visit website and search for Keyword Generator Script.
  *
  * Copyright (c) 2021 www.technicalarp.com
